@@ -1,0 +1,56 @@
+@import url("reset.css");
+
+.lesson {
+  color: blueviolet;
+}
+.big-title {
+  color: green;
+}
+.text {
+  color: red;
+}
+[class*="ept"] {
+  color: #000;
+}
+.item {
+  color: green;
+}
+.item1 {
+  color: #000;
+}
+.item2 {
+  color: yellow;
+}
+.item3 {
+  color: brown;
+}
+.item4 {
+  color: blueviolet;
+}
+.item5 {
+  color: aqua;
+}
+.item6 {
+  color: green;
+}
+.title1 {
+  color: blueviolet;
+}
+.title2 {
+  color: green;
+}
+.link {
+  color: blue;
+}
+a {
+  color: blueviolet;
+}
+#some-id {
+  color: yellowgreen;
+}
+[class*="ark"] {
+  color: red;
+}
+a.link2{
+	color: green;
+}
