@@ -1,0 +1,220 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&family=Workbench&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Workbench&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Scribble&display=swap");
+
+@import url("reset.css");
+
+body {
+  padding: 30px;
+}
+
+.text {
+  max-width: 800px;
+  background-color: blueviolet;
+  color: #000;
+  padding: 5px;
+  border-radius: 0px 15px 0px 15px;
+  box-shadow: 0 0 10px 10px yellow;
+  margin-bottom: 20px;
+}
+.text {
+  opacity: 0, 3;
+}
+.inline-block {
+  padding: 10px;
+  border-radius: 8px;
+  border: 2px solid yellow;
+  outline: 5px double blue;
+  outline-offset: 3px;
+  margin-bottom: 30px;
+}
+.link-1 {
+  color: aliceblue;
+  border-bottom: 2px dashed;
+}
+.inline {
+  background-color: red;
+  outline: 5px double green;
+}
+.span {
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+.circle {
+  width: 200px;
+  height: 200px;
+  background-color: orangered;
+  border: 10px solid;
+  border-radius: 30px;
+  margin-bottom: 20px;
+}
+.page {
+  padding: 60px;
+}
+.text-2 {
+  text-align: center;
+  width: 200px;
+  padding: 15px;
+  border: 2px solid black;
+  background-color: rgb(186, 218, 112);
+  box-shadow: inset 1px 1px 20px 15px rgb(133, 17, 73);
+  margin-bottom: 20px;
+  padding: 20px;
+}
+.link {
+  text-align: center;
+  font-size: 20px;
+  width: 200px;
+  height: 30px;
+  background-color: orangered;
+  border-radius: 12px;
+  border: 3px solid red;
+  box-shadow: -1px -1px 7px 5px black;
+  margin-bottom: 20px;
+}
+.text-3 {
+  padding: 20px;
+  max-width: 800px;
+  background-image: url("../img/img1.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 10px;
+}
+.text-4 {
+  padding: 10px;
+  max-width: 600px;
+  background-color: orange;
+  font-size: 20px;
+  font-weight: 600;
+  font-style: italic;
+  background: url("../img/card5.png") center/ 200px no-repeat,
+    blueviolet url("../img/mark.png") center/ 200px no-repeat;
+}
+
+.arrow-left {
+  width: 0;
+  height: 0;
+  border-top: 50px solid transparent;
+  border-right: 100px solid green;
+  border-bottom: 50px solid transparent;
+}
+.arrow-right {
+  width: 0;
+  height: 0;
+  border-top: 50px solid transparent;
+  border-left: 100px solid green;
+  border-bottom: 50px solid transparent;
+}
+.arrow-top {
+  width: 0;
+  height: 0;
+  border-right: 50px solid transparent;
+  border-left: 50px solid transparent;
+  border-bottom: 100px solid green;
+}
+.arow-bottom {
+  width: 0;
+  height: 0;
+  border-right: 50px solid transparent;
+  border-left: 50px solid transparent;
+  border-top: 100px solid green;
+  margin-bottom: 20px;
+}
+.list {
+  padding-bottom: 20px;
+}
+.list-item {
+  background: url("../img/mark.png") 0 0 / 20px no-repeat;
+  padding-left: 20px;
+  margin-bottom: 10px;
+  min-height: 18px;
+}
+
+.big-block {
+  width: 1070;
+  max-width: 100%;
+  height: 1544px;
+  background-color: #f8f8f8;
+  font-family: "Proxima Nova", sans-serif;
+  margin-bottom: 30px;
+}
+.title {
+  font-size: 40px;
+  font-weight: 600;
+  text-align: left;
+  line-height: 48px;
+  padding-top: 0;
+  padding-bottom: 40px;
+}
+.foto {
+  width: 1070px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px 8px 8px 8px;
+  margin-bottom: 40px;
+}
+.block-01 {
+  color: #2b2929;
+}
+.tetx-001 {
+  max-width: 1070px;
+  font-size: 16px;
+  line-height: 30px;
+  text-align: left;
+}
+.text-01 {
+  margin-bottom: 10px;
+}
+.text-02 {
+  margin-bottom: 40px;
+}
+h3 {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+  width: 1070px;
+  margin-bottom: 30px;
+}
+.icon {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  max-width: 1023px;
+}
+.icon-1 {
+  margin-bottom: 20px;
+  background: url("../img/mark.png") 0 0 / 32px no-repeat;
+  padding-left: 47px;
+}
+.icon-2 {
+  margin-bottom: 20px;
+  background: url("../img/mark.png") 0 0 / 32px no-repeat;
+  padding-left: 47px;
+}
+.icon-3 {
+  margin-bottom: 20px;
+  background: url("../img/mark.png") 0 0 / 32px no-repeat;
+  padding-left: 47px;
+}
+.icon-4 {
+  margin-bottom: 20px;
+  background: url("../img/mark.png") 0 0 / 32px no-repeat;
+  padding-left: 47px;
+}
+.icon-5 {
+  margin-bottom: 20px;
+  background: url("../img/mark.png") 0 0 / 32px no-repeat;
+  padding-left: 47px;
+}
+
+.text-03 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  max-width: 1070px;
+  margin-bottom: 20px;
+}
