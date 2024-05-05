@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&family=Workbench&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Workbench&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Scribble&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,700;1,700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap");
+
+@import url("reset.css");
+
+.conteiner {
+  min-height: 100%;
+  overflow: hidden;
+  background-color: rgb(180, 180, 180);
+  color: #000;
+  font-family: "Roboto", sans-serif;
+}
+.header {
+  margin-bottom: 20px;
+}
+.header,
+.footer {
+  padding: 30px 0;
+  text-align: center;
+  background-color: rebeccapurple;
+}
+.header h1,
+.footer h2 {
+  font-size: 24px;
+  text-transform: uppercase;
+  color: #fff;
+}
+.main {
+  margin-bottom: 20px;
+}
+.collection {
+  padding: 60px 0;
+}
+.collection-conteiner {
+  max-width: 1270px;
+  margin: 0 auto;
+  padding: 0 15px;
+  font-size: 0;
+}
+.collection-body {
+  display: inline-block;
+  padding: 20px 0;
+  vertical-align: middle;
+  max-width: 686px;
+  font-size: 16px;
+  margin-right: 98px;
+  color: #000;
+}
+.collection-body p {
+  text-transform: capitalize;
+  font-size: 30px;
+  line-height: 1.83;
+  margin-bottom: 66px;
+}
+.collection-title {
+  font-size: 74px;
+  text-shadow: 0 4px 4px yellow;
+  font-weight: 300;
+  line-height: 1;
+  margin-bottom: 52px;
+}
+.button {
+  display: inline-block;
+  padding: 19px 26px 19px 64px;
+  font-size: 29px;
+  text-transform: capitalize;
+  color: #fff;
+  background: #1e2832 url("../img/v6-icon\ \(free\).png") 26px center / 30px
+    no-repeat;
+}
+.collection-image,
+.collection-image img {
+  display: inline-block;
+  border-radius: 160px 0;
+  max-width: 424px;
+  width: 100%;
+  height: 542px;
+}
+.collection-image {
+  vertical-align: middle;
+  border: 2px solid  #1e2832;
+}
+.collection-image img{
+	margin-top: -20px ;
+	margin-left: -18px ;
+}
+
+
